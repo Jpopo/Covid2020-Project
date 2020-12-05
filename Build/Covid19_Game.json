@@ -1,0 +1,16 @@
+{
+"companyName": "GaState_GameDev",
+"productName": "Covid_Test_Platformer",
+"productVersion": "0.1",
+"dataUrl": "Covid19_Game.data.unityweb",
+"wasmCodeUrl": "Covid19_Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Covid19_Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
